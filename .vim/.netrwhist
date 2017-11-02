@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/halfonm/rendu/cpp/cpp_indie_studio/src/Game'
+let g:netrw_dirhist_2='/home/halfonm/rendu/cpp/cpp_indie_studio/include/Game/Units'
+let g:netrw_dirhist_3='/home/halfonm/.config/autostart'
+let g:netrw_dirhist_4='/home/halfonm/Downloads/boost_1_65_1/libs/system/build'
+let g:netrw_dirhist_5='/home/halfonm/Downloads/boost_1_65_1/libs/system'
+let g:netrw_dirhist_6='/home/halfonm/Downloads/boost_1_65_1/libs/system/src'
+let g:netrw_dirhist_7='/home/halfonm/rendu/tek3/cpp_babel/.git'
